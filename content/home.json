@@ -87,12 +87,12 @@
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
-      "page": 1
+      "page": 1,
+      "collection_id": "61f198fe7963422eeed58013:categories:Confort:/confort"
     },
     {
-      "type": "page-title",
-      "title": "Loja demo da E-Com Plus",
-      "description": "Loja de demonstração e testes da plataforma E-Com Plus e Storefront. Todos os produtos, preços e informações são meramente ilustrativos."
+      "type": "responsive-banner",
+      "img": "/img/uploads/banner-b.jpg"
     }
   ]
 }
