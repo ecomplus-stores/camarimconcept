@@ -1,7 +1,7 @@
 {
   "domain": "camarimconcept.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#222831",
+  "primary_color": "#8b9698",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
@@ -9,17 +9,17 @@
   "bg_color": "#ffffff",
   "logo": "/img/uploads/logo-camarim.png",
   "name": "Camarim Concept",
-  "short_name": "camarimconcept",
+  "short_name": "Camarim Concept",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "font_family": "_",
-  "favicon": "/img/uploads/favicon.png",
-  "icons_font": "_",
+  "font_family": "Poppins",
+  "favicon": "/img/uploads/borboleta-vetor.png",
+  "icons_font": "line-awesome",
   "country_code": "BR",
-  "secondary_color": "#393e46",
-  "icon": "/img/icon.png",
+  "secondary_color": "#f3a9cd",
+  "icon": "/img/uploads/borboleta-vetor.png",
   "store_id": 35015,
-  "description": "camarimconcept",
-  "large_icon": "/img/large-icon.png"
+  "description": "CAMARIM CONCEPT",
+  "large_icon": "/img/uploads/borboleta-vetor.png"
 }
