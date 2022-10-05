@@ -21,11 +21,6 @@
           "img": "/img/uploads/banner-h.jpg",
           "alt": "Banner sample two",
           "mobile_img": "/img/uploads/banner-h.jpg"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banner-f.jpg"
         }
       ]
     },
