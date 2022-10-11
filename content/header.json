@@ -19,7 +19,8 @@
         "title": "Política de Privacidade"
       },
       {
-        "title": "Formas de Pagamento"
+        "title": "Formas de Pagamento",
+        "link": "https://camarimconcept.netlify.app/pages/pagamentos"
       }
     ],
     "phone_wpp": true,
