@@ -28,11 +28,27 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/lancamento?Lançamento ",
+      "/blazer?Blazer",
+      "/blusas?Blusas",
+      "/calca?Calça",
+      "/camisa?Camisa",
+      "/noiva?Coleção Noiva",
+      "/confort?Confort",
+      "/conjunto?Conjunto",
+      "/cropped?Cropped",
+      "/macacao?Macacão ",
+      "/moda-praia?Moda Praia",
+      "/saia?Saia",
+      "/shorts?Shorts",
+      "/vestido?Vestido",
+      "/vestidos-festa?Vestidos Festa"
+    ],
     "random": 20,
     "full_width": true
   },
-  "desktop_megamenu": false,
+  "desktop_megamenu": true,
   "search_input": true,
   "alphabetical_order_submenu": true,
   "full_width_submenu": true
