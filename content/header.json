@@ -43,7 +43,8 @@
       "/saia?Saia",
       "/shorts?Shorts",
       "/vestido?Vestido",
-      "/vestidos-festa?Vestidos Festa"
+      "/vestidos-festa?Vestidos Festa",
+      "/sale?SALE"
     ],
     "random": 20,
     "full_width": true
