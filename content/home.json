@@ -40,7 +40,7 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": true,
+      "shuffle": false,
       "collection_id": "620517477963422eeef81d4c:categories:Lançamento :/lancamento",
       "sort": null,
       "title": "",
