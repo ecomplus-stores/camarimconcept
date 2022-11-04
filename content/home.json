@@ -43,6 +43,14 @@
       "shuffle": true,
       "limit": 12,
       "page": 1,
+      "collection_id": "620517477963422eeef81d4c:categories:Lançamento :/lancamento",
+      "sort": "news"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 1,
       "collection_id": "6309178073321213f8597071:categories:SALE:/sale"
     },
     {
@@ -83,14 +91,6 @@
     {
       "type": "responsive-banner",
       "img": "/img/uploads/banner-j.jpg"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "620517477963422eeef81d4c:categories:Lançamento :/lancamento",
-      "sort": "news"
     }
   ]
 }
