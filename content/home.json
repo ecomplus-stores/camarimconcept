@@ -8,6 +8,11 @@
       "full_width": false,
       "slides": [
         {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-black.jpg"
+        },
+        {
           "img": "/img/uploads/banner-g.jpg",
           "link": "",
           "alt": "",
