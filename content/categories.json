@@ -8,6 +8,10 @@
       "type": "page-title"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/banner-black.jpg"
+    },
+    {
       "type": "document-banner",
       "enabled": true
     },
