@@ -2360,66 +2360,6 @@
     </url>
   
     <url>
-      <loc>https://camarimconcept.netlify.app/dot-clothing</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/duplo-sentido</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/klk-store</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/oxua</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/madallola</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/elae</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/estratosfera</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/fille</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/madri-belle</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/pump-rock</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://camarimconcept.netlify.app/vestido</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -2511,6 +2451,66 @@
   
     <url>
       <loc>https://camarimconcept.netlify.app/noiva</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/dot-clothing</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/duplo-sentido</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/klk-store</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/oxua</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/madallola</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/elae</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/estratosfera</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/fille</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/madri-belle</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/pump-rock</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
