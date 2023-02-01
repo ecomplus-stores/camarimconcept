@@ -8,7 +8,7 @@
       "full_width": false,
       "slides": [
         {
-          "img": "/img/uploads/banner-g.jpg",
+          "img": "/img/uploads/banner-carnaval.jpg",
           "link": "",
           "alt": "",
           "start": "",
@@ -18,14 +18,14 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-h.jpg",
+          "img": "/img/uploads/banner-n.jpg",
           "alt": "",
-          "mobile_img": "/img/uploads/banner-h.jpg"
+          "mobile_img": "/img/uploads/banner-n.jpg"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-i.jpg"
+          "img": "/img/uploads/banner-m.jpg"
         }
       ]
     },
