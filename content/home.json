@@ -8,8 +8,8 @@
       "full_width": false,
       "slides": [
         {
-          "img": "/img/uploads/banner-j.jpg",
-          "link": "",
+          "img": "/img/uploads/outono-inverno-2023.jpg",
+          "link": "https://camarimconcept.netlify.app/lancamento",
           "alt": "",
           "start": "",
           "end": "",
@@ -18,14 +18,20 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-n.jpg",
+          "img": "/img/uploads/tendencia-2023-tweed.jpg",
           "alt": "",
           "mobile_img": "/img/uploads/banner-n.jpg"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-m.jpg"
+          "img": "/img/uploads/sale-verao-2023.jpg",
+          "link": "https://camarimconcept.netlify.app/sale"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/cupom-desconto.jpg"
         }
       ]
     },
