@@ -5,14 +5,17 @@
   },
   "installments": {
     "show": true,
-    "text": "Parcele em até 4x sem juros"
+    "text": "Parcele em até 4x sem juros",
+    "link": "https://camarimconcept.netlify.app/pages/pagamentos"
   },
   "exchange": {
     "show": true,
-    "text": "Não gostou? A primeira troca é gratuita"
+    "text": "Não gostou? A primeira troca é gratuita",
+    "link": "https://camarimconcept.netlify.app/pages/trocas"
   },
   "promo": {
     "show": true,
-    "text": "Diferentes promoções ao longo do ano!"
+    "text": "Diferentes promoções ao longo do ano!",
+    "link": "https://camarimconcept.netlify.app/sale"
   }
 }
