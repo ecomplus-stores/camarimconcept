@@ -4,7 +4,7 @@
   "desktopOnly": false,
   "options": {
     "enableWidgetProduct": true,
-    "allySlug": ""
+    "allySlug": "ally_slug"
   },
   "productSlots": "src/append/product-slots",
   "bodyAppend": "src/append/body"
