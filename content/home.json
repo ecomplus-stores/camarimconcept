@@ -68,7 +68,7 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": 12,
       "page": 1,
       "collection_id": "61f19b9f7963422eeed58b84:categories:Calça:/calca"
