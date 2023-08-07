@@ -82,7 +82,7 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": 12,
       "page": 1,
       "collection_id": "61f20b857963422eeed6b167:categories:Vestidos Festa:/vestidos-festa"
