@@ -75,7 +75,7 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": 12,
       "page": 1,
       "collection_id": "61f0650a7963422eeed29600:categories:Vestido:/vestido"
