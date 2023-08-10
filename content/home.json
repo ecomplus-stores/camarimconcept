@@ -91,6 +91,14 @@
       "page": 1,
       "collection_id": "61f20b857963422eeed6b167:categories:Vestidos Festa:/vestidos-festa",
       "sort": "news"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "61f1a1f77963422eeed5a640:categories:Cropped:/cropped",
+      "sort": "news"
     }
   ]
 }
