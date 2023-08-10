@@ -59,6 +59,14 @@
       "page": 1,
       "collection_id": "6309178073321213f8597071:categories:OUTLET:/sale",
       "sort": "news"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "61f076ae7963422eeed2c0bf:categories:Conjunto:/conjunto",
+      "sort": "news"
     }
   ]
 }
