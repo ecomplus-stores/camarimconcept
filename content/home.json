@@ -8,7 +8,7 @@
       "full_width": false,
       "slides": [
         {
-          "img": "/img/uploads/banner-do-youtube-espirito-livre-moderno-carvao-bege.jpg",
+          "img": "/img/uploads/banner-camarim.jpg",
           "link": "https://camarimconcept.netlify.app/lancamento",
           "alt": "",
           "start": "",
@@ -18,7 +18,7 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/capa-canal-de-skincare-delicado-rose-branco-banner-para-youtube-1-.jpg",
+          "img": "/img/uploads/banner-shop-moda-plus-size-gradiente-lilas-e-rosa-.jpg",
           "alt": "",
           "mobile_img": "",
           "link": "https://camarimconcept.netlify.app/confort"
@@ -26,13 +26,8 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-do-youtube-espirito-livre-moderno-carvao-bege-2-.jpg",
+          "img": "/img/uploads/semana-do-consumidor-neon-roxo-e-preto-banner-para-mercado-shops.jpg",
           "link": "https://camarimconcept.netlify.app/sale"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banner-do-youtube-espirito-livre-moderno-carvao-bege-1-.jpg"
         }
       ]
     },
