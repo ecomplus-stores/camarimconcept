@@ -2492,6 +2492,24 @@
     </url>
   
     <url>
+      <loc>https://camarimconcept.netlify.app/camisa-bolsos-lara-areia</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/camisa-bolsos-lara-preta</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/camisa-bolsos-lara-branca</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://camarimconcept.netlify.app/vestido</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
