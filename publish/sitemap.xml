@@ -2912,6 +2912,18 @@
     </url>
   
     <url>
+      <loc>https://camarimconcept.netlify.app/vestido-sabrina-curto-pink</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/vestido-sabrina-curto-azul-marinho</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://camarimconcept.netlify.app/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -2930,12 +2942,6 @@
     </url>
   
     <url>
-      <loc>https://camarimconcept.netlify.app/pages/pagamentos</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://camarimconcept.netlify.app/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -2943,6 +2949,12 @@
   
     <url>
       <loc>https://camarimconcept.netlify.app/pages/sobre-nos</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
