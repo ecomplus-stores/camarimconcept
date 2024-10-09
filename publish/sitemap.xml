@@ -224,6 +224,12 @@
     </url>
   
     <url>
+      <loc>https://camarimconcept.netlify.app/amarelo</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://camarimconcept.netlify.app/shorts-larissa</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -2961,6 +2967,42 @@
   
     <url>
       <loc>https://camarimconcept.netlify.app/vestido-milla-calda-preto</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/vestido-milla-calda-marsala</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/vestido-milla-calda-marsala-c326</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/vestido-ombro-a-ombro-tassiana-camomila</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/vestido-ombro-a-ombro-tassiana-verde-oliva</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/vestido-ombro-a-ombro-tassiana-verde-petroleo</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/vestido-ombro-a-ombro-tassiana-verde-petroleo-c348</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
