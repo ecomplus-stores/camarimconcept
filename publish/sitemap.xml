@@ -3116,7 +3116,13 @@
     </url>
   
     <url>
-      <loc>https://camarimconcept.netlify.app/vestido-midi-laco-yandra-verde-c597</loc>
+      <loc>https://camarimconcept.netlify.app/vestido-midi-laco-yandra-branco</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/vestido-midi-laco-yandra-verde-c618</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -3368,13 +3374,13 @@
     </url>
   
     <url>
-      <loc>https://camarimconcept.netlify.app/pages/pagamentos</loc>
+      <loc>https://camarimconcept.netlify.app/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://camarimconcept.netlify.app/pages/privacidade</loc>
+      <loc>https://camarimconcept.netlify.app/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
