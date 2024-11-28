@@ -236,18 +236,6 @@
     </url>
   
     <url>
-      <loc>https://camarimconcept.netlify.app/vestido-tay</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/vestido-noiva</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://camarimconcept.netlify.app/body-tropical</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -273,12 +261,6 @@
   
     <url>
       <loc>https://camarimconcept.netlify.app/biquini-thalia</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/vestido-renda-bella</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -428,12 +410,6 @@
     </url>
   
     <url>
-      <loc>https://camarimconcept.netlify.app/vestido-longo-nayane-verde-bandeira-c274</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://camarimconcept.netlify.app/conjunto-lara-tweed-off-white-c605-c948</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -441,12 +417,6 @@
   
     <url>
       <loc>https://camarimconcept.netlify.app/conjunto-maryna-tweed-pink-c953</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/vestido-longo-rilari-verde-sage-c561</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -471,12 +441,6 @@
   
     <url>
       <loc>https://camarimconcept.netlify.app/vestido-longo-deborah-off-white</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/vestido-longo-thuane-azul-tiffany</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -525,12 +489,6 @@
   
     <url>
       <loc>https://camarimconcept.netlify.app/vestido-longo-faixa-laurete-vermelho</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/vestido-longo-keyla-terracota</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -837,12 +795,6 @@
   
     <url>
       <loc>https://camarimconcept.netlify.app/vestido-midi-guipir-jailine-off-white</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/vestido-longo-belina-fucsia</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -1766,18 +1718,6 @@
     </url>
   
     <url>
-      <loc>https://camarimconcept.netlify.app/vestido-longo-um-ombro-gisela-laranja</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/vestido-longo-um-ombro-gisela-pink</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://camarimconcept.netlify.app/vestido-longo-um-ombro-gisela-verde-bandeira</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -2079,24 +2019,6 @@
   
     <url>
       <loc>https://camarimconcept.netlify.app/vestido-nave-listras-bordado-ludy</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/vestido-longo-drapeado-diana-laranja</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/vestido-longo-drapeado-diana-rosa-chicle</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/vestido-longo-drapeado-diana-fuscia</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -3506,13 +3428,13 @@
     </url>
   
     <url>
-      <loc>https://camarimconcept.netlify.app/app/index</loc>
+      <loc>https://camarimconcept.netlify.app/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://camarimconcept.netlify.app/admin/index</loc>
+      <loc>https://camarimconcept.netlify.app/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
