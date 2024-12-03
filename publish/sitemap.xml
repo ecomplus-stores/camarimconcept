@@ -2,9 +2,231 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
-      <loc>https://camarimconcept.netlify.app/shorts-larissa</loc>
+      <loc>https://camarimconcept.netlify.app/vestido</loc>
       <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/macacao</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/conjunto</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/confort</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/calca</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/saia</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/cropped</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/vestidos-festa</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/blazer</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/camisa</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/blusas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/shorts</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/moda-praia</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/lancamento</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/sale</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/noiva</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/azul-serenity</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/fucsia</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/verde-menta</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/rose</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/terracota</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/vermelho</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/verde-oliva</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/azul-tiffany</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/lavanda</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/marsala</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/preto</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/laranja</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/azul-marinho-royal</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/pink</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/prata</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/dourado</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/lima</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/verde</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/verde-petroleo</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/roxo</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/verde-esmeralda-c983</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/amarelo</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
     <url>
@@ -237,12 +459,6 @@
   
     <url>
       <loc>https://camarimconcept.netlify.app/cropped-alca-cruzada-valeria-azul-ciano</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/conjunto-alfaiataria-fabiola-azul-santorini</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -536,12 +752,6 @@
     </url>
   
     <url>
-      <loc>https://camarimconcept.netlify.app/conjunto-samara-saia-e-colete-terracota</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://camarimconcept.netlify.app/vestido-longo-tule-antonia-lavanda</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -579,18 +789,6 @@
   
     <url>
       <loc>https://camarimconcept.netlify.app/vestido-midi-ivete-vermelho</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/conjunto-sarja-jane-bege</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/conjunto-sarja-jane-jeans</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -681,18 +879,6 @@
   
     <url>
       <loc>https://camarimconcept.netlify.app/blazer-alfaiatara-monica-cinza</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/conjunto-alfaiataria-jamile-fucsia</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/conjunto-alfaiataria-jamile-fendi</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -800,18 +986,6 @@
     </url>
   
     <url>
-      <loc>https://camarimconcept.netlify.app/conjunto-tqc-joyce-fendi</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/conjunto-tqc-joyce-vermelho</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://camarimconcept.netlify.app/vestido-um-ombro-mali-preto</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -873,12 +1047,6 @@
   
     <url>
       <loc>https://camarimconcept.netlify.app/conjunto-pantacourt-ciganinha-camel</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/conjunto-blazer-e-shorts-madalena-off-white</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -1023,18 +1191,6 @@
   
     <url>
       <loc>https://camarimconcept.netlify.app/conjunto-acetinado-marrie-preto</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/conjunto-bomber-e-calca-olga-salmao</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/conjunto-spencer-e-calca-mirella-verde-militar</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -1244,12 +1400,6 @@
     </url>
   
     <url>
-      <loc>https://camarimconcept.netlify.app/conjunto-tqc-clara-preto</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://camarimconcept.netlify.app/conjunto-tqc-clara-cinza</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1394,18 +1544,6 @@
     </url>
   
     <url>
-      <loc>https://camarimconcept.netlify.app/conjunto-blusa-e-calca-jo-camel</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/conjunto-blusa-e-calca-jo-azul-royal</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://camarimconcept.netlify.app/vestido-midi-clarice-tqc-vermelho</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1419,12 +1557,6 @@
   
     <url>
       <loc>https://camarimconcept.netlify.app/vestido-cibele-balone-areia</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/vestido-cibele-balone-preto</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -1490,12 +1622,6 @@
     </url>
   
     <url>
-      <loc>https://camarimconcept.netlify.app/vestido-longo-um-ombro-gisela-rosa-shock</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://camarimconcept.netlify.app/conjunto-rubia-camisa-e-calca-alfaiataria-azul-royal</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1503,12 +1629,6 @@
   
     <url>
       <loc>https://camarimconcept.netlify.app/vestido-longuete-linho-bordado-sarah-laranja</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/camisa-larissa-laco-verde-oliva</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -1562,12 +1682,6 @@
     </url>
   
     <url>
-      <loc>https://camarimconcept.netlify.app/conjunto-cibele-acetinado-laranja-queimado</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://camarimconcept.netlify.app/conjunto-cibele-acetinado-preto</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1587,12 +1701,6 @@
   
     <url>
       <loc>https://camarimconcept.netlify.app/conjunto-colete-e-calca-cargo-melissa-preto</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/conjunto-colete-e-calca-cargo-melissa-off-white</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -1868,19 +1976,7 @@
     </url>
   
     <url>
-      <loc>https://camarimconcept.netlify.app/vestido-longo-ombro-a-ombro-dandara-azul-marinho</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://camarimconcept.netlify.app/vestido-longo-ombro-a-ombro-dandara-marsala</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/vestido-longo-ombro-a-ombro-dandara-preto</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -1910,12 +2006,6 @@
     </url>
   
     <url>
-      <loc>https://camarimconcept.netlify.app/vestido-tule-larissa-fucsia</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://camarimconcept.netlify.app/vestido-tule-larissa-laranja</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1923,12 +2013,6 @@
   
     <url>
       <loc>https://camarimconcept.netlify.app/vestido-sandra-ombro-laco-rose</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/vestido-sandra-ombro-laco-fucsia</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -2108,12 +2192,6 @@
     </url>
   
     <url>
-      <loc>https://camarimconcept.netlify.app/vestido-tule-larissa-azul-serenity</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://camarimconcept.netlify.app/vestido-tule-larissa-verde-esmeralda</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -2121,12 +2199,6 @@
   
     <url>
       <loc>https://camarimconcept.netlify.app/vestido-tule-larissa-lima</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/vestido-tule-larissa-rose</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -2451,12 +2523,6 @@
   
     <url>
       <loc>https://camarimconcept.netlify.app/vestido-midi-anne-menta</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/vestido-longo-gisela-azul-marinho</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -3227,234 +3293,6 @@
       <loc>https://camarimconcept.netlify.app/vestido-longo-angelina-branco</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/vestido</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/macacao</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/conjunto</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/confort</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/calca</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/saia</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/cropped</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/vestidos-festa</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/blazer</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/camisa</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/blusas</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/shorts</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/moda-praia</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/lancamento</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/sale</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/noiva</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/azul-serenity</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/fucsia</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/verde-menta</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/rose</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/terracota</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/vermelho</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/verde-oliva</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/azul-tiffany</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/lavanda</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/marsala</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/preto</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/laranja</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/azul-marinho-royal</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/pink</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/prata</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/dourado</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/lima</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/verde</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/verde-petroleo</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/roxo</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/verde-esmeralda-c983</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/amarelo</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
     </url>
   
     <url>
