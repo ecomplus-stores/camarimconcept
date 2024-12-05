@@ -3326,7 +3326,25 @@
     </url>
   
     <url>
-      <loc>https://camarimconcept.netlify.app/macacao-joziane-off-white-c204</loc>
+      <loc>https://camarimconcept.netlify.app/macacao-joziane-preto</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/macacao-joziane-preto-c963</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/conjunto-colete-e-shorts-kate-bage</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/conjunto-colete-e-shorts-kate-bage-c473</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
