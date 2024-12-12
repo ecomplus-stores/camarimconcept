@@ -3038,6 +3038,12 @@
     </url>
   
     <url>
+      <loc>https://camarimconcept.netlify.app/vestido-longuete-laiane-vermelho</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://camarimconcept.netlify.app/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
