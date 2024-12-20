@@ -2570,12 +2570,6 @@
     </url>
   
     <url>
-      <loc>https://camarimconcept.netlify.app/vestido-midi-canelado-preto</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://camarimconcept.netlify.app/vestido-longo-olivia-tiffany</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -3008,13 +3002,13 @@
     </url>
   
     <url>
-      <loc>https://camarimconcept.netlify.app/app/index</loc>
+      <loc>https://camarimconcept.netlify.app/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://camarimconcept.netlify.app/admin/index</loc>
+      <loc>https://camarimconcept.netlify.app/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
