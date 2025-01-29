@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.9b010d4591015987cebc1b9c46666b3b.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.baed2627995af2d5356c30ef32ff6543.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.55d03334e87d197111c01ab3627cbedb.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.73ff2e4c6e97fae443215d5f42ef8d3d.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.3257e8528e0a2c32b25d18baf5e5aa00.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Camarim Concept",
+  "short_name": "Camarim Concept",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "CAMARIM CONCEPT",
+  "background_color": "#ffffff",
+  "theme_color": "#8b9698"
+}
