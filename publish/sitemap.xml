@@ -2372,7 +2372,7 @@
     </url>
   
     <url>
-      <loc>https://camarimconcept.netlify.app/vestido-longuete-acetinado-eliana-off-white-c763</loc>
+      <loc>https://camarimconcept.netlify.app/vestido-longuete-acetinado-eliana-preto</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -2636,6 +2636,12 @@
     </url>
   
     <url>
+      <loc>https://camarimconcept.netlify.app/pages/termos</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://camarimconcept.netlify.app/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -2643,12 +2649,6 @@
   
     <url>
       <loc>https://camarimconcept.netlify.app/pages/trocas</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/pages/termos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
