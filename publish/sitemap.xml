@@ -2480,6 +2480,18 @@
     </url>
   
     <url>
+      <loc>https://camarimconcept.netlify.app/macacao-alfaiataria-katiane-marrom</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/macacao-alfaiataria-katiane-marrom-c472</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://camarimconcept.netlify.app/vestido</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -2714,6 +2726,12 @@
     </url>
   
     <url>
+      <loc>https://camarimconcept.netlify.app/pages/entrega</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://camarimconcept.netlify.app/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -2726,19 +2744,13 @@
     </url>
   
     <url>
-      <loc>https://camarimconcept.netlify.app/pages/entrega</loc>
+      <loc>https://camarimconcept.netlify.app/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
       <loc>https://camarimconcept.netlify.app/pages/sobre-nos</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -2786,13 +2798,13 @@
     </url>
   
     <url>
-      <loc>https://camarimconcept.netlify.app/admin/index</loc>
+      <loc>https://camarimconcept.netlify.app/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://camarimconcept.netlify.app/app/index</loc>
+      <loc>https://camarimconcept.netlify.app/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
