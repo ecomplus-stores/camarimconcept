@@ -2522,7 +2522,7 @@
     </url>
   
     <url>
-      <loc>https://camarimconcept.netlify.app/cropped-camisa-helena-marrom-c279</loc>
+      <loc>https://camarimconcept.netlify.app/cropped-camisa-helena-branca</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -2822,15 +2822,15 @@
     </url>
   
     <url>
-      <loc>https://camarimconcept.netlify.app/search</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://camarimconcept.netlify.app/</loc>
       <changefreq>daily</changefreq>
       <priority>1</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/search</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
     <url>
