@@ -2882,7 +2882,7 @@
     </url>
   
     <url>
-      <loc>https://camarimconcept.netlify.app/blusa-gola-alta-gilda-terracota-c953</loc>
+      <loc>https://camarimconcept.netlify.app/blusa-gola-alta-gilda-branca</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -2966,13 +2966,13 @@
     </url>
   
     <url>
-      <loc>https://camarimconcept.netlify.app/app/index</loc>
+      <loc>https://camarimconcept.netlify.app/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://camarimconcept.netlify.app/admin/index</loc>
+      <loc>https://camarimconcept.netlify.app/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
