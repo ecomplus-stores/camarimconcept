@@ -2702,7 +2702,31 @@
     </url>
   
     <url>
-      <loc>https://camarimconcept.netlify.app/shorts-saia-alfaiataria-risca-de-giz-preto-c656</loc>
+      <loc>https://camarimconcept.netlify.app/shorts-saia-alfaiataria-risca-de-giz-off-white</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/shorts-saia-alfaiataria-risca-de-giz-uva</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/camisa-acetinada-alfaiataria-stella-pink</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/camisa-acetinada-alfaiataria-stella-verde-agua</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/camisa-acetinada-alfaiataria-stella-verde-agua-c598</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -2954,13 +2978,13 @@
     </url>
   
     <url>
-      <loc>https://camarimconcept.netlify.app/pages/pagamentos</loc>
+      <loc>https://camarimconcept.netlify.app/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://camarimconcept.netlify.app/pages/faq</loc>
+      <loc>https://camarimconcept.netlify.app/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -3002,15 +3026,15 @@
     </url>
   
     <url>
-      <loc>https://camarimconcept.netlify.app/blog</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://camarimconcept.netlify.app/</loc>
       <changefreq>daily</changefreq>
       <priority>1</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/blog</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
     <url>
