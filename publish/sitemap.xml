@@ -2486,13 +2486,19 @@
     </url>
   
     <url>
-      <loc>https://camarimconcept.netlify.app/macaquinho-manga-babado-penelope-preto-c845</loc>
+      <loc>https://camarimconcept.netlify.app/macaquinho-manga-babado-penelope-roxo</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
   
     <url>
       <loc>https://camarimconcept.netlify.app/macaquinho-manga-babado-penelope-cinza</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/camisa-max-bolsos-lara-branca</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
