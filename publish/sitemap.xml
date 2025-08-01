@@ -2432,7 +2432,19 @@
     </url>
   
     <url>
-      <loc>https://camarimconcept.netlify.app/vestido-capa-selene-verde-menta-c182</loc>
+      <loc>https://camarimconcept.netlify.app/vestido-capa-selene-verde-esmeralda</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/vestido-capa-selene-azul-ocean</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/vestido-capa-selene-azul-ocean-c512</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -2738,15 +2750,15 @@
     </url>
   
     <url>
-      <loc>https://camarimconcept.netlify.app/search</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://camarimconcept.netlify.app/</loc>
       <changefreq>daily</changefreq>
       <priority>1</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/search</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
     <url>
