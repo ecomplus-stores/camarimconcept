@@ -2774,7 +2774,13 @@
     </url>
   
     <url>
-      <loc>https://camarimconcept.netlify.app/conjunto-alfaiataria-michele-bege-c142</loc>
+      <loc>https://camarimconcept.netlify.app/conjunto-alfaiataria-michele-preto</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/conjunto-alfaiataria-michele-preto-c298</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
