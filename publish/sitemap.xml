@@ -2570,7 +2570,13 @@
     </url>
   
     <url>
-      <loc>https://camarimconcept.netlify.app/conjunto-jogger-ingrid-doce-de-leite-c884</loc>
+      <loc>https://camarimconcept.netlify.app/conjunto-jogger-ingrid-azul-royal</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/conjunto-jogger-ingrid-azul-royal-c955</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -2816,6 +2822,12 @@
     </url>
   
     <url>
+      <loc>https://camarimconcept.netlify.app/pages/entrega</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://camarimconcept.netlify.app/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -2829,12 +2841,6 @@
   
     <url>
       <loc>https://camarimconcept.netlify.app/pages/privacidade</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
