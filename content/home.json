@@ -8,7 +8,12 @@
       "full_width": false,
       "slides": [
         {
-          "img": "/img/uploads/lancamento-2026.jpg",
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/2026.jpg"
+        },
+        {
+          "img": "/img/uploads/novi2026.jpg",
           "link": "https://camarimconcept.netlify.app/lancamento",
           "alt": "",
           "start": "",
@@ -18,7 +23,7 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/cfesta.jpg",
+          "img": "/img/uploads/festa-2026.jpg",
           "alt": "",
           "mobile_img": "",
           "link": "https://camarimconcept.netlify.app/vestidos-festa"
