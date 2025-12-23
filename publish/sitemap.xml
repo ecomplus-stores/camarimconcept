@@ -716,12 +716,6 @@
     </url>
   
     <url>
-      <loc>https://camarimconcept.netlify.app/conjunto-laise-fabiana-off-white</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://camarimconcept.netlify.app/conjunto-paete-mini-saia-renata-dourado</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1353,12 +1347,6 @@
   
     <url>
       <loc>https://camarimconcept.netlify.app/camisa-babados-brenda-preto</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/conjunto-alfaiataria-flame-larissa-cinza</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -2162,18 +2150,6 @@
     </url>
   
     <url>
-      <loc>https://camarimconcept.netlify.app/conjunto-alfaiataria-tqc-fernanda-camel</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/conjunto-alfaiataria-tqc-fernanda-bege</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://camarimconcept.netlify.app/vestido-frente-unica-botoes-azul-bebe</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -2954,21 +2930,27 @@
     </url>
   
     <url>
-      <loc>https://camarimconcept.netlify.app/</loc>
-      <changefreq>daily</changefreq>
-      <priority>1</priority>
-    </url>
-  
-    <url>
       <loc>https://camarimconcept.netlify.app/blog</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
+      <loc>https://camarimconcept.netlify.app/</loc>
+      <changefreq>daily</changefreq>
+      <priority>1</priority>
+    </url>
+  
+    <url>
       <loc>https://camarimconcept.netlify.app/search</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/app/index</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
     </url>
   
     <url>
@@ -2981,12 +2963,6 @@
       <loc>https://camarimconcept.netlify.app/maintenance/index</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/app/index</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.6</priority>
     </url>
   
 </urlset>
