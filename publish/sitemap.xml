@@ -2462,6 +2462,12 @@
     </url>
   
     <url>
+      <loc>https://camarimconcept.netlify.app/vestido-longo-deusa-marsala</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://camarimconcept.netlify.app/vestido</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -2762,15 +2768,15 @@
     </url>
   
     <url>
-      <loc>https://camarimconcept.netlify.app/search</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://camarimconcept.netlify.app/</loc>
       <changefreq>daily</changefreq>
       <priority>1</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/search</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
     <url>
