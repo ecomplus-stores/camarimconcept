@@ -2636,7 +2636,13 @@
     </url>
   
     <url>
-      <loc>https://camarimconcept.netlify.app/vestido-longo-listras-tati-camel-c851</loc>
+      <loc>https://camarimconcept.netlify.app/vestido-longo-listras-tati-azul-claro</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/vestido-longo-listras-tati-azul-claro-c904</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -2876,13 +2882,19 @@
     </url>
   
     <url>
+      <loc>https://camarimconcept.netlify.app/pages/contato</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://camarimconcept.netlify.app/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://camarimconcept.netlify.app/pages/contato</loc>
+      <loc>https://camarimconcept.netlify.app/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -2895,12 +2907,6 @@
   
     <url>
       <loc>https://camarimconcept.netlify.app/pages/privacidade</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
