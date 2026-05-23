@@ -2972,12 +2972,6 @@
     </url>
   
     <url>
-      <loc>https://camarimconcept.netlify.app/pages/contato</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://camarimconcept.netlify.app/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -2991,6 +2985,12 @@
   
     <url>
       <loc>https://camarimconcept.netlify.app/pages/pagamentos</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
