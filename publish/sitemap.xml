@@ -2630,13 +2630,13 @@
     </url>
   
     <url>
-      <loc>https://camarimconcept.netlify.app/pages/contato</loc>
+      <loc>https://camarimconcept.netlify.app/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://camarimconcept.netlify.app/pages/faq</loc>
+      <loc>https://camarimconcept.netlify.app/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -2684,12 +2684,6 @@
     </url>
   
     <url>
-      <loc>https://camarimconcept.netlify.app/</loc>
-      <changefreq>daily</changefreq>
-      <priority>1</priority>
-    </url>
-  
-    <url>
       <loc>https://camarimconcept.netlify.app/blog</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -2699,6 +2693,12 @@
       <loc>https://camarimconcept.netlify.app/search</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/</loc>
+      <changefreq>daily</changefreq>
+      <priority>1</priority>
     </url>
   
     <url>
