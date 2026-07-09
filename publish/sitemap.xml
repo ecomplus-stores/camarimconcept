@@ -2306,12 +2306,6 @@
     </url>
   
     <url>
-      <loc>https://camarimconcept.netlify.app/vestido-longo-manga-longa-melissa-azul-serenity-c186</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://camarimconcept.netlify.app/blusa-cacharrel-preta-c358</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -2367,6 +2361,18 @@
   
     <url>
       <loc>https://camarimconcept.netlify.app/vestido-sereia-longo-capa-azul-sky</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/vestido-longo-sereia-franzido-azul-marinho</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/vestido-longo-manga-longa-melissa-azul-serenity-c186-c957</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -2642,12 +2648,6 @@
     </url>
   
     <url>
-      <loc>https://camarimconcept.netlify.app/pages/faq</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://camarimconcept.netlify.app/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -2667,6 +2667,12 @@
   
     <url>
       <loc>https://camarimconcept.netlify.app/pages/termos</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
