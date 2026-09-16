@@ -2318,6 +2318,12 @@
     </url>
   
     <url>
+      <loc>https://camarimconcept.netlify.app/vestido-midi-manga-asa-branco</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://camarimconcept.netlify.app/dot</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -2342,7 +2348,7 @@
     </url>
   
     <url>
-      <loc>https://camarimconcept.netlify.app/pages/contato</loc>
+      <loc>https://camarimconcept.netlify.app/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -2354,13 +2360,13 @@
     </url>
   
     <url>
-      <loc>https://camarimconcept.netlify.app/pages/faq</loc>
+      <loc>https://camarimconcept.netlify.app/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://camarimconcept.netlify.app/pages/privacidade</loc>
+      <loc>https://camarimconcept.netlify.app/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -2372,7 +2378,7 @@
     </url>
   
     <url>
-      <loc>https://camarimconcept.netlify.app/pages/pagamentos</loc>
+      <loc>https://camarimconcept.netlify.app/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
