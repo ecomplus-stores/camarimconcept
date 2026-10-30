@@ -2210,6 +2210,18 @@
     </url>
   
     <url>
+      <loc>https://camarimconcept.netlify.app/shorts-detalhe-listrado-azul</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/shorts-detalhe-listrado-azul-c943</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://camarimconcept.netlify.app/dot</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -2246,6 +2258,12 @@
     </url>
   
     <url>
+      <loc>https://camarimconcept.netlify.app/pages/faq</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://camarimconcept.netlify.app/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -2253,12 +2271,6 @@
   
     <url>
       <loc>https://camarimconcept.netlify.app/pages/privacidade</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://camarimconcept.netlify.app/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
