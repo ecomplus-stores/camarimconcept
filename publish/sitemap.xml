@@ -1724,7 +1724,13 @@
     </url>
   
     <url>
-      <loc>https://camarimconcept.netlify.app/vestido-longo-bluse-drapeado-terracota-c580</loc>
+      <loc>https://camarimconcept.netlify.app/vestido-longo-bluse-drapeado-azul-marinho</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/vestido-longo-corsele-azul-claro</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -2000,25 +2006,25 @@
     </url>
   
     <url>
-      <loc>https://camarimconcept.netlify.app/pages/pagamentos</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://camarimconcept.netlify.app/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://camarimconcept.netlify.app/pages/privacidade</loc>
+      <loc>https://camarimconcept.netlify.app/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
       <loc>https://camarimconcept.netlify.app/pages/sobre-nos</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://camarimconcept.netlify.app/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
